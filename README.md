@@ -6,15 +6,16 @@ A modern and responsive **landing page UI** designed for developers, showcasing 
 
 ## 🌐 Live Demo
 
-👉 [https://your-anjali1612.github.io/3D-Landing-page/](https://anjali1612.github.io/3D-Landing-page/)
+👉 https://your-username.github.io/your-repo-name/
 
 ---
-# ✨ Features
+
+## ✨ Features
 
 * 🎯 Modern dark-themed UI design
 * ⚡ Smooth and responsive layout
 * 🧩 Clean navigation bar with sections
-* 🤖 3D-style visual/hero section
+* 🤖 3D-style visual/hero section using Spline
 * 📱 Fully responsive (mobile-friendly)
 * 🎨 Gradient buttons & UI effects
 
@@ -24,7 +25,7 @@ A modern and responsive **landing page UI** designed for developers, showcasing 
 
 * HTML5
 * CSS3
-* JavaScript (optional if used)
+* Spline (for 3D visuals and design)
 
 ---
 
@@ -34,7 +35,6 @@ A modern and responsive **landing page UI** designed for developers, showcasing 
 project/
 │── index.html
 │── style.css
-│── script.js (if used)
 │── assets/
 │   ├── images/
 │   └── preview.png
@@ -56,6 +56,13 @@ Just open `index.html` in your browser.
 
 ---
 
+## 🔗 Spline Integration
+
+This project uses **Spline** to create and integrate 3D visuals in the hero section.
+The 3D elements are embedded into the webpage to enhance visual experience.
+
+---
+
 ## 📌 Future Improvements
 
 * Add animations using JavaScript / GSAP
@@ -69,6 +76,7 @@ Just open `index.html` in your browser.
 
 * Understanding of landing page design
 * Improved CSS styling & layout skills
+* Basics of integrating 3D tools like Spline
 * UI/UX design thinking
 * Responsive design implementation
 
