@@ -6,7 +6,7 @@ A modern and responsive **landing page UI** designed for developers, showcasing 
 
 ## 🌐 Live Demo
 
-👉 https://your-anjali1612.github.io/3D-Landing-page/
+👉 [https://your-anjali1612.github.io/3D-Landing-page/](https://anjali1612.github.io/3D-Landing-page/)
 
 ---
 # ✨ Features
